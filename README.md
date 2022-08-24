@@ -1,7 +1,7 @@
 ### Hello There 👋
 
 - I am Anurag, currently working as a Software Associate at Hitachi Vantara.
-- I graduated in 2021 from SNIST, Telangana(B.Tech, IT) with a CGPA of 8.73.
+- I graduated in 2021 from SNIST, Hyderabad(B.Tech, IT) with a CGPA of 8.73.
 - I’m currently learning React, Spring.
 - Interests: Chess.
 
